@@ -6,7 +6,9 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews
 
 <h4> Searching the movie </h4>
-![image](https://user-images.githubusercontent.com/87670223/161700904-d44bb74d-91c3-45f8-8a39-27171db1804f.png)
+
+![image](https://user-images.githubusercontent.com/87670223/164998500-00202d25-122f-421e-a917-934ba88a7ca5.png)
+
 
 <h4> Getting sentiments on the reviews of the movie </h4>
 ![image](https://user-images.githubusercontent.com/87670223/161701219-a273af8f-666d-4cd9-b716-c561cf645120.png)
