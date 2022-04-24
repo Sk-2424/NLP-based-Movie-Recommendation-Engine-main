@@ -20,9 +20,9 @@ IMDB id of the movie in the API, Web scraping was done to get the reviews given 
 ![image](https://user-images.githubusercontent.com/87670223/164998567-b1e8088c-91b3-4946-bf9d-ce5253d07e12.png)
 
 <h3>How to run the project?</h3>
-1. Clone this repository in your local system.
-2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt.
-3. Replace YOUR_API_KEY in both the places (line no. 23 and 43) of static/recommend.js file.
-4. Open your terminal/command prompt from your project directory and run the main.py file by executing the command python main.py.
-5. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
-6. Hurray! That's it.
+1. Clone this repository in your local system.<br>
+2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt.<br>
+3. Replace YOUR_API_KEY in both the places (line no. 23 and 43) of static/recommend.js file.<br>
+4. Open your terminal/command prompt from your project directory and run the main.py file by executing the command python main.py.<br>
+5. Go to your browser and type http://127.0.0.1:5000/ in the address bar.<br>
+6. Hurray! That's it.<br>
